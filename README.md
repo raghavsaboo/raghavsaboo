@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B!)](https://git.io/typing-svg)
+
+I am an engineer, currently working on recommendation and search systems. I have a passion for building products and rapid iterations.
+
+You can learn more at [my website](https://www.raghavsaboo.com).
 
 <!--
 **raghavsaboo/raghavsaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=raghavsaboo.raghavsaboo)
